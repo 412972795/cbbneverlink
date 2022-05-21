@@ -5,11 +5,11 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "e4e4263b-2e01-493c-b94c-8bde249e025d"
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/"
+            "value": "/ws"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
