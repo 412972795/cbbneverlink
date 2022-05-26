@@ -1,18 +1,18 @@
 {
-    "name": "V2T",
-    "description": "Deploy V2T VLESS on Heroku.",
-    "keywords": ["V2T"],
+    "name": "VV22TTT",
+    "description": "Deploy V2T VVLLESS TRYING.",
+    "keywords": ["VV22TTT"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "e4e4263b-2e01-493c-b94c-8bde249e025d"
+            "value": "24080e41-c177-449d-8afa-373d2d0e7b1c"
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/ws"
+            "value": "/wws"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "website": "",
     "repository": "https://github.com/412972795/cbbneverlink",
     "stack": "container"
 }
